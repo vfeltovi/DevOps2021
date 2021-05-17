@@ -1,0 +1,3 @@
+Sladka
+Cervena
+Malina
