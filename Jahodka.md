@@ -8,8 +8,5 @@
 2.Zahrada
 3.Zber
 
-Jesen
-Zima
-
-*Jar
-*Leto
+**Jar
+**Leto
